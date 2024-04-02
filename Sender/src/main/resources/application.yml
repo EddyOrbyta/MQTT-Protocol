@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+app:
+    test: true
+server:
+  port: 8045
